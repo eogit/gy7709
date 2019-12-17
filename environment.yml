@@ -1,0 +1,94 @@
+
+
+
+name: gy7709env
+
+channels:
+
+  - conda-forge
+
+dependencies:
+
+  - boto3
+
+  - botocore
+
+  - gdal
+
+  - geopandas
+
+  - geoplot
+
+  - imageio
+
+  - joblib
+
+  - matplotlib
+
+  - netCDF4
+
+  - numpy
+
+  - pandas
+
+  - pip
+
+  - proj4
+
+  - pytest
+
+  - python
+
+  - python-fmask
+
+  - requests
+
+  - rpy2
+
+  - scikit-image
+
+  - scikit-learn
+
+  - scipy
+
+  - setuptools
+
+  - statsmodels
+
+  - pip:
+
+    - copy
+
+    - os
+
+    - osgeo
+
+    - pymse_with_ci95
+
+    - random
+
+    - shutil
+
+    - subprocess
+
+    - time
+
+    - skimage
+
+    - sys
+
+    - warnings
+
+    - geojson
+
+    - google-cloud
+
+    - sentinelhub
+
+    - sentinelsat
+
+    - tenacity
+
+    - tqdm
+
+
