@@ -19,9 +19,13 @@ dependencies:
 
   - geoplot
 
+  - git
+
   - imageio
 
   - joblib
+
+  - jupyter
 
   - matplotlib
 
@@ -43,7 +47,7 @@ dependencies:
 
   - requests
 
-  - rpy2
+  - rpy2==2.9.4
 
   - scikit-image
 
@@ -62,8 +66,6 @@ dependencies:
     - os
 
     - osgeo
-
-    - pymse_with_ci95
 
     - random
 
